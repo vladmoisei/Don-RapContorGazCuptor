@@ -1,0 +1,66 @@
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.exe.config
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.exe
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.pdb
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\S7.Net.dll
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\S7.Net.pdb
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\MainWindow.g.cs
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\App.g.cs
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1_MarkupCompile.cache
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1_MarkupCompile.lref
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\MainWindow.baml
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.g.resources
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.Properties.Resources.resources
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csproj.GenerateResource.cache
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csproj.CoreCompileInputs.cache
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csproj.CopyComplete
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.exe
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.pdb
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.exe.manifest
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.application
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.exe.manifest
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.application
+C:\Users\IA\source\repos\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csprojAssemblyReference.cache
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.exe.config
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.exe.manifest
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.application
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.exe
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.pdb
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\S7.Net.dll
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\S7.Net.pdb
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csprojAssemblyReference.cache
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\MainWindow.g.cs
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\App.g.cs
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1_MarkupCompile.cache
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1_MarkupCompile.lref
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\MainWindow.baml
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.g.resources
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.Properties.Resources.resources
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csproj.GenerateResource.cache
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csproj.CoreCompileInputs.cache
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.exe.manifest
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.application
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csproj.CopyComplete
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.exe
+C:\Users\IA\Desktop\My Programs\Proiecte Donalam\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.pdb
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.exe.config
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.exe.manifest
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.application
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.exe
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\RaportContorGazCuptorV1.pdb
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\S7.Net.dll
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\bin\Debug\S7.Net.pdb
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1_MarkupCompile.cache
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1_MarkupCompile.lref
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.g.resources
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.Properties.Resources.resources
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.exe.manifest
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.application
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.csproj.CopyComplete
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.exe
+C:\Users\User\Desktop\Programe cod sursa\RaportContorGazCuptorV1\RaportContorGazCuptorV1\obj\Debug\RaportContorGazCuptorV1.pdb

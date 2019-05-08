@@ -1,0 +1,48 @@
+﻿<Window x:Class="RaportContorGazCuptorV1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RaportContorGazCuptorV1"
+        mc:Ignorable="d"
+        Title="Consum Gaz Cuptor" Height="450" Width="800"
+        Closing="DataWindow_Closing"
+        >
+    <StackPanel>
+        <TextBlock x:Name="stareConexiune" 
+                               Margin="10,5,0,0"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Top"
+                               Text="Consum gaz cuptor raportare"
+                               TextWrapping="Wrap" FontWeight="Bold" FontSize="28"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+
+            <TextBlock x:Name="mesaje" 
+                               Margin="10,5,0,0"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Top"
+                               Text="Functioneaza"
+                               TextWrapping="Wrap" FontWeight="Bold" FontSize="18"/>
+            <Ellipse x:Name="eclipsa" Width="19"
+                             Height="18"
+                             Margin="29,10,0,0"
+                             HorizontalAlignment="Center"
+                             VerticalAlignment="Top"                
+                             Stroke="Black" />
+        </StackPanel>
+        <TextBlock x:Name="indexText" 
+                               Margin="10,5,0,0"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Top"
+                               
+                               TextWrapping="Wrap" FontWeight="Bold" FontSize="18"/>
+        <StackPanel Orientation="Horizontal">
+            <TextBox x:Name="oraRaportTextBox" Width="200"></TextBox>
+            <Button x:Name="Setare_Ora_Raport">Setare ora raport ('hh:mm:ss')</Button>
+            <Button x:Name="AfisareOraRAport" Margin="20 0">Afisare ora raport</Button>
+        </StackPanel>
+        <TextBox x:Name="AdreseMailDeTrimisTBox"></TextBox>
+        <Button x:Name="Start_Comm">Start Comm</Button>
+        <Button x:Name="Stop_Comm">Stop Comm</Button>
+    </StackPanel>
+</Window>
